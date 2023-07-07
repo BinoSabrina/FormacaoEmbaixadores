@@ -1,5 +1,9 @@
 header{
-    background-color:#5C85C2 ;
+    background-color:#5C85C2;
+    color: #ffffff;
 }
-   
+
+img {
+    width: 10%;
+    height: 10%;
 }
