@@ -30,6 +30,7 @@
 .edutech{
     background-image: linear-gradient(#5C85C2,#87CA8D);
     display: flex;
+    justify-content: center;
 }
 
 .edutech-div-conteudo{
