@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .cabecalho {
     background-color:#5C85C2;
     color: black;
