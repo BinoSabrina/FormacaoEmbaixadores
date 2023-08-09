@@ -60,6 +60,6 @@ body {
 }
 
 .embaixadoras-todos{
-    display: grid;
+    display: grid; grid-template-columns: 20% 20%;
 }
  
