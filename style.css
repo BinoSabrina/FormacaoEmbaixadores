@@ -62,4 +62,8 @@ body {
 .embaixadoras-todos{
     display: grid; grid-template-columns: 10% 10%;
 }
+
+.rodape-imagem{
+    height: 60px;
+}
  
