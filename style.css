@@ -46,17 +46,18 @@ body {
     padding: 24px 0;
 }
 
+.embaixadoras-titulo{
+    background-image: linear-gradient(#5C85C2,#87CA8D);  
+    text-align:left;
+    padding: 50px 0;
+}
+
 .embaixadoras-imagem{
    width: 120px; 
 }
 
 .embaixadoras-div{
     text-align: center;
-}
-
-.embaixadoras-titulo{
-    text-align:left;
-    padding: 50px 0;
 }
 
 .embaixadoras-todos{
