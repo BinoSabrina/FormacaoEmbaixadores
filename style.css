@@ -62,9 +62,3 @@ body {
 .embaixadoras-todos{
     display: grid; grid-template-columns: 10% 10%;
 }
-
-.NRE-imagem{
-    width: 20%;
-    height: 20%;
-}
- 
