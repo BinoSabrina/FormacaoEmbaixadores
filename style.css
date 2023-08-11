@@ -53,6 +53,7 @@ body {
 
 .embaixadoras-imagem{
    width: 120px; 
+   padding: 50px;
   }
 
 .embaixadoras-div{
@@ -60,5 +61,5 @@ body {
 }
 
 .embaixadoras-todos{
-    display: grid; grid-template-columns: 10% 10%;
+    display: grid; grid-template-columns: 10% 10% 10%;
 }
