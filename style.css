@@ -31,7 +31,7 @@ body {
     width: 18%;
 }
 
-.edutech{
+.edutech {
     background-image: linear-gradient(#5C85C2,#87CA8D);
     display: flex;
     justify-content: center;
@@ -39,26 +39,22 @@ body {
     padding: 35px 0;
 }
 
-.edutech-div-conteudo{
+.edutech-div-conteudo {
     width: 40%;
 }
 .edutech-titulo{
     padding: 24px 0;
 }
 
-.embaixadoras-titulo{
+.embaixadoras-titulo {
     text-align: left;
     padding: 50px 0;
 }
 
-.embaixadoras-imagem{
-   width: 120px; 
-   padding: 50px;
-  }
-
-.embaixadoras-div{
+.embaixadoras-item {
     text-align: center;
-}
+    padding: 16px 0;
+  }
 
 .embaixadoras-todos{
     display: grid; grid-template-columns: 10% 10% 10%;
