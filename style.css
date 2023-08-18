@@ -63,5 +63,6 @@ body {
 }
 
 .embaixadoras-todos {
+    background-color: #87CA8D;
     display:grid;
 }
