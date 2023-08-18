@@ -68,3 +68,11 @@ body {
     display:grid;
     grid-template-columns: 25% 25% 25% 25% 25%;
 }
+
+.rodape{
+    background-color: #87CA8D;
+}
+
+.rodape-imagem{
+    height: 60px;
+}
