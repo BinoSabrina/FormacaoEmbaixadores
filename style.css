@@ -58,11 +58,12 @@ body {
   }
 
 .embaixadoras-imagem {
-    width: 40px;
+    width: 60px;
     padding: 5px;
 }
 
 .embaixadoras-todos {
     background-color: #87CA8D;
     display:grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
