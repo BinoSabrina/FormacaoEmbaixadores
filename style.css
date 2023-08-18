@@ -64,7 +64,7 @@ body {
 
 .embaixadoras-todos {
     background-color: #87CA8D;
-    font-size: 18px;
+    font-size: 14px;
     display:grid;
     grid-template-columns: 20% 20% 20% 20% 20% 20%;
 }
