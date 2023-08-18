@@ -60,7 +60,3 @@ body {
     width: 24px;
     padding: 5px;
 }
-
-.embaixadoras-todos{
-    display: grid; grid-template-columns: 20% 20% 20% 20% 20%;
-}
