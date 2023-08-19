@@ -12,6 +12,11 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color:#ff0099
+    text-decoration: none;
+}
+
 .cabecalho {
     background-color:#5C85C2;
     color: black;
